@@ -1,0 +1,44 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "a technical sharing session on 25 June",
+        "linkText": "Get your ticket"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Our platform addresses the challenges of finding reliable information by bringing people together to share their expertise. Unlike any other solution, we provide an easy-to-use interface for seamless knowledge exchange.",
+        "title": "Connecting People Through Knowledge Sharing"
+      }
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "description": "Lorem ipsum dolor sit amet consect adipisicing possimus.",
+        "title": "Trusted by creators worldwide"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Empowering Innovations Through Technical Knowledge",
+  "subtitle": "Dive into a world of inspiring technical insights, tutorials, and breakthroughs. Let's celebrate progress and share expertise with Yay."
+}
